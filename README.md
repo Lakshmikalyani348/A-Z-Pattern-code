@@ -5,7 +5,7 @@ Enter any word and generate its alphabet pattern instantly. ✨
 
 ## 🚀 Live Demo
 
-👉 Coming Soon...
+👉 https://kalyani-pattern-generator.streamlit.app/
 
 ## ✨ Features
 
