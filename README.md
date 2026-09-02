@@ -97,7 +97,6 @@ Lakshmi Kalyani
 
 B.Tech Computer Science Engineering Student
 Passionate about Python, Web Development, AI & Machine Learning.
-
-<p align="center"> Made with ❤️ using Python & Streamlit </p> ```
+ Made with ❤️ using Python & Streamlit
 
 
